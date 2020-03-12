@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff9334b3-f8a5-4d2c-b17d-72e440655a87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrap2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrap2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584038454896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Test instagram Bot**pre_final***">
+      <created>1584038766254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584038766254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,10 +128,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="First Test instagram Bot**pre_final***" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1584038751107">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1584039786709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/-228.-900.1600.860@0.0.1366.728" timestamp="1584038751107" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/-228.-900.1600.860@0.0.1366.728" timestamp="1584039786709" />
     <state width="1345" height="210" key="GridCell.Tab.0.bottom" timestamp="1584038649054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
