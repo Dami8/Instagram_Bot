@@ -6,7 +6,7 @@ import time
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-instagram_account = 'tasnim_rassaa'
+instagram_account = 'cataliarasami'
 
 story_saver = "https://www.storysaver.net"
 
@@ -23,7 +23,7 @@ while True:
        # save_video = driver.find_elements_by_class_name("button medium primary")
 
         save_video.click()
-        time.sleep(1)
+        time.sleep(4)
         download_video = driver.find_element_by_name("media")
     except:
         pass
