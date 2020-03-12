@@ -6,7 +6,7 @@ import time
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-instagram_account = 'sintegraconsulting'
+instagram_account = 'tasnim_rassaa'
 
 story_saver = "https://www.storysaver.net"
 
@@ -21,8 +21,10 @@ while True:
     try:
         save_video = driver.find_element_by_link_text("Save as Video")
        # save_video = driver.find_elements_by_class_name("button medium primary")
+
         save_video.click()
         time.sleep(1)
+        download_video = driver.find_element_by_name("media")
     except:
         pass
         print("trying to scroll")
